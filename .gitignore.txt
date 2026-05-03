@@ -1,0 +1,11 @@
+# Build
+/bin/
+
+# Eclipse metadata (có thể bỏ hoặc giữ)
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
